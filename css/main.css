@@ -39,5 +39,6 @@ ul {
 }
 .header__link{
     color: white;
-    
+    font-size: 20px;
+    font-weight: 700;
 }
